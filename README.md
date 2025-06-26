@@ -25,4 +25,4 @@ wilyandresen2411@gmail.com and www.linkedin.com/in/wily-andresen
 #Python
 #Googlecolab
 #data-science
-data-analytics
+#data-analytics
